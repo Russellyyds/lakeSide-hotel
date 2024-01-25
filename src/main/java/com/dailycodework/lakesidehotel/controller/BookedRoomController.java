@@ -1,2 +1,5 @@
-package com.dailycodework.lakesidehotel.controller;public class BookedRoomController {
+package com.dailycodework.lakesidehotel.controller;
+
+public class BookedRoomController {
+
 }

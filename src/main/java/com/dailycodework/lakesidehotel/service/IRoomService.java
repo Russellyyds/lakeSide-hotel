@@ -1,2 +1,4 @@
-package com.dailycodework.lakesidehotel.service;public interface IRoomService {
+package com.dailycodework.lakesidehotel.service;
+
+public interface IRoomService {
 }

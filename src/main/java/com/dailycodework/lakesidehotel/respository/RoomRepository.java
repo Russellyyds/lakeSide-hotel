@@ -1,2 +1,4 @@
-package com.dailycodework.lakesidehotel.respository;public interface RoomRepository {
+package com.dailycodework.lakesidehotel.respository;
+
+public interface RoomRepository {
 }
